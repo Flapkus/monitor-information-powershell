@@ -1,1 +1,1 @@
-Get serial numer of monitors with powershell script
+Get serial number of monitors with powershell script
